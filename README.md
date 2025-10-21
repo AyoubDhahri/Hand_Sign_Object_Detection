@@ -7,14 +7,20 @@ It allows users to visualize the live camera feed and see the predicted hand sig
 ---
 
 ### 🎥 Demo
-<video src="https://github.com/AyoubDhahri/Hand_Sign_Object_Detection/blob/master/assets/signs.mp4" controls width="700"></video>
 
 ---
+
+Uploading demo (1).mp4…
+
+
 
 ### 🎥 Dataset Creation
-[Demo Video](assets/signs.mp4)
 
 ---
+
+https://github.com/user-attachments/assets/8c24a871-739d-48f8-9743-c7b3f4e45ca7
+
+
 
 ### 🚀 Features
 - **Live hand sign detection** via webcam  
