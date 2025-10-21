@@ -10,7 +10,10 @@ It allows users to visualize the live camera feed and see the predicted hand sig
 
 ---
 
-Uploading demo (1).mp4…
+
+
+https://github.com/user-attachments/assets/4c13e2b9-695d-4d25-85a0-c411aec68ae6
+
 
 
 
