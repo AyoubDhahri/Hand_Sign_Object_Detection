@@ -7,7 +7,7 @@ It allows users to visualize the live camera feed and see the predicted hand sig
 ---
 
 ### 🎥 Demo
-[Demo Video](assets/demo.mp4)
+<video src="https://github.com/Nightshader07/ForumApp/raw/main/assets/demo.mp4" controls width="700"></video>
 
 ---
 
